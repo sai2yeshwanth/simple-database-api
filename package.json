@@ -1,0 +1,25 @@
+{
+  "name": "simple-database-api",
+  "version": "1.0.0",
+  "description": "A lightweight, file-based REST API built with Node.js and Express. This API demonstrates basic CRUD (Create, Read, Update, Delete) operations using a JSON file as a simple database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai2yeshwanth/simple-database-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sai2yeshwanth/simple-database-api/issues"
+  },
+  "homepage": "https://github.com/sai2yeshwanth/simple-database-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "fs-extra": "^11.2.0"
+  }
+}
